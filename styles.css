@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+/* Style for the dropdown list */
+#colorSelect {
+  margin-bottom: 10px;
+}
+
+/* Style for the button */
+input[type="button"] {
+  padding: 5px 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+/* Style for the button on hover */
+input[type="button"]:hover {
+  background-color: #45a049;
+}
+
